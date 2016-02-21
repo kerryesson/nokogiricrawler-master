@@ -1,0 +1,13 @@
+== README
+
+See a live demo: crawler.kellybhoward.com
+
+* Ruby 2.2.1
+
+* Rails 4.1.8
+
+* Highcharts --> http://www.highcharts.com/
+
+* extra gems: nokogiri --> https://github.com/sparklemotion/nokogiri
+
+enjoy ^^
